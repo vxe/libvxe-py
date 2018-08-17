@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='libvxe_py',
-      version='0.1',
+      version='0.2',
       description='Py Dev',
       url='https://github.com/vxe/libvxe-py.git',
       author='Vijay Edwin',
