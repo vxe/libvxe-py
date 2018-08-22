@@ -1,0 +1,11 @@
+* Files
+
+Libraries for file manipulation and MIME type detection.
+
+mimetypes - (Python standard library) Map filenames to MIME types.
+path.py - A module wrapper for os.path.
+pathlib - (Python standard library) An cross-platform, object-oriented path library.
+PyFilesystem2 - Python's filesystem abstraction layer.
+python-magic - A Python interface to the libmagic file type identification library.
+Unipath - An object-oriented approach to file/directory operations.
+watchdog - API and shell utilities to monitor file system events.

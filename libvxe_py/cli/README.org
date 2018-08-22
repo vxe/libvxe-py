@@ -1,0 +1,31 @@
+
+Libraries for building command-line application.
+
+Command-line Application Development
+cement - CLI Application Framework for Python.
+click - A package for creating beautiful command line interfaces in a composable way.
+cliff - A framework for creating command-line programs with multi-level commands.
+clint - Python Command-line Application Tools.
+docopt - Pythonic command line arguments parser.
+Gooey - Turn command line programs into a full GUI application with one line.
+Python-Fire - A library for creating command line interfaces from absolutely any Python object.
+python-prompt-toolkit - A library for building powerful interactive command lines.
+Terminal Rendering
+asciimatics - A package to create full-screen text UIs (from interactive forms to ASCII animations).
+bashplotlib - Making basic plots in the terminal.
+colorama - Cross-platform colored terminal text.
+Productivity Tools
+aws-cli - A universal command-line interface for Amazon Web Services.
+cookiecutter - A command-line utility that creates projects from cookiecutters (project templates).
+doitlive - A tool for live presentations in the terminal.
+howdoi - Instant coding answers via the command line.
+httpie - A command line HTTP client, a user-friendly cURL replacement.
+kube-shell - An integrated shell for working with the Kubernetes CLI.
+mycli - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+PathPicker - Select files out of bash output.
+percol - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
+pgcli - Postgres CLI with autocompletion and syntax highlighting.
+SAWS - A Supercharged AWS CLI.
+thefuck - Correcting your previous console command.
+tmuxp - A tmux session manager.
+try - A dead simple CLI to try out python packages - it's never been easier.

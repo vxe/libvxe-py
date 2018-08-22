@@ -1,0 +1,16 @@
+* DevOps Tools
+
+Software and libraries for DevOps.
+
+Ansible - A radically simple IT automation platform.
+Cloud-Init - A multi-distribution package that handles early initialization of a cloud instance.
+cuisine - Chef-like functionality for Fabric.
+Docker Compose - Fast, isolated development environments using Docker.
+Fabric - A simple, Pythonic tool for remote execution and deployment.
+Fabtools - Tools for writing awesome Fabric files.
+honcho - A Python clone of Foreman, for managing Procfile-based applications.
+OpenStack - Open source software for building private and public clouds.
+pexpect - Controlling interactive programs in a pseudo-terminal like GNU expect.
+psutil - A cross-platform process and system utilities module.
+SaltStack - Infrastructure automation and management system.
+supervisor - Supervisor process control system for UNIX.

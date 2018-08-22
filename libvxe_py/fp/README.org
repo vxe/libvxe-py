@@ -1,0 +1,8 @@
+* Functional Programming
+
+Functional Programming with Python.
+
+CyToolz - Cython implementation of Toolz: High performance functional utilities.
+fn.py - Functional programming in Python: implementation of missing features to enjoy FP.
+funcy - A fancy and practical functional tools.
+Toolz - A collection of functional utilities for iterators, functions, and dictionaries.

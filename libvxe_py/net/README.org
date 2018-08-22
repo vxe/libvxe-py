@@ -1,0 +1,20 @@
+* Network Virtualization
+
+Tools and libraries for Virtual Networking and SDN (Software Defined Networking).
+
+Mininet - A popular network emulator and API written in Python.
+POX - An open source development platform for Python-based Software Defined Networking (SDN) control applications, such as OpenFlow SDN controllers.
+Pyretic - A member of the Frenetic family of SDN programming languages that provides powerful abstractions over network switches or emulators.
+SDX Platform - SDN based IXP implementation that leverages Mininet, POX and Pyretic.
+
+
+* Libraries for networking programming.
+
+asyncio - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
+awesome-asyncio
+diesel - Greenlet-based event I/O Framework for Python.
+pulsar - Event-driven concurrent framework for Python.
+pyzmq - A Python wrapper for the ZeroMQ message library.
+Twisted - An event-driven networking engine.
+txZMQ - Twisted based wrapper for the ZeroMQ message library.
+NAPALM - Cross-vendor API to manipulate network devices.

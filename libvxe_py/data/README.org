@@ -1,0 +1,67 @@
+* Data Analysis
+
+Libraries for data analyzing.
+
+Blaze - NumPy and Pandas interface to Big Data.
+Open Mining - Business Intelligence (BI) in Pandas interface.
+Orange - Data mining, data visualization, analysis and machine learning through visual programming or scripts.
+Pandas - A library providing high-performance, easy-to-use data structures and data analysis tools.
+Optimus - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy Machine Learning with a PySpark backend.
+
+
+* Data Validation
+
+Libraries for validating data. Used for forms in many cases.
+
+Cerberus - A lightweight and extensible data validation library.
+colander - Validating and deserializing data obtained via XML, JSON, an HTML form post.
+Dash - Built on top of Flask, React and Plotly aimed at analytical web applications.
+awesome-dash
+jsonschema - An implementation of JSON Schema for Python.
+schema - A library for validating Python data structures.
+Schematics - Data Structure Validation.
+valideer - Lightweight extensible data validation and adaptation library.
+voluptuous - A Python data validation library.
+
+* Data Visualization
+
+Libraries for visualizing data. See: awesome-javascript.
+
+Altair - Declarative statistical visualization library for Python.
+Bokeh - Interactive Web Plotting for Python.
+bqplot - Interactive Plotting Library for the Jupyter Notebook
+ggplot - Same API as ggplot2 for R.
+Matplotlib - A Python 2D plotting library.
+Pygal - A Python SVG Charts Creator.
+PyGraphviz - Python interface to Graphviz.
+PyQtGraph - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
+Seaborn - Statistical data visualization using Matplotlib.
+VisPy - High-performance scientific visualization based on OpenGL.
+
+* formats
+** General
+ tablib - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
+** Office
+  Marmir - Takes Python data structures and turns them into spreadsheets.
+  openpyxl - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
+  pyexcel - Providing one API for reading, manipulating and writing csv, ods, xls, xlsx and xlsm files.
+  python-docx - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
+  python-pptx - Python library for creating and updating PowerPoint (.pptx) files.
+  relatorio - Templating OpenDocument files.
+  unoconv - Convert between any document format supported by LibreOffice/OpenOffice.
+  XlsxWriter - A Python module for creating Excel .xlsx files.
+  xlwings - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
+  xlwt / xlrd - Writing and reading data and formatting information from Excel files.
+**   PDF
+  PDFMiner - A tool for extracting information from PDF documents.
+  PyPDF2 - A library capable of splitting, merging and transforming PDF pages.
+  ReportLab - Allowing Rapid creation of rich PDF documents.
+**  Markdown
+  Mistune - Fastest and full featured pure Python parsers of Markdown.
+  Python-Markdown - A Python implementation of John Gruber’s Markdown.
+**  YAML
+  PyYAML - YAML implementations for Python.
+  CSV
+  csvkit - Utilities for converting to and working with CSV.
+  Archive
+  unp - A command line tool that can unpack archives easily.

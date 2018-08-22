@@ -1,0 +1,14 @@
+* Natural Language Processing
+
+Libraries for working with human languages.
+
+gensim - Topic Modelling for Humans.
+Jieba - Chinese text segmentation.
+langid.py - Stand-alone language identification system.
+NLTK - A leading platform for building Python programs to work with human language data.
+Pattern - A web mining module for the Python.
+polyglot - Natural language pipeline supporting hundreds of languages.
+SnowNLP - A library for processing Chinese text.
+spaCy - A library for industrial-strength natural language processing in Python and Cython.
+TextBlob - Providing a consistent API for diving into common NLP tasks.
+PyTorch-NLP - A toolkit enabling rapid deep learning NLP prototyping for research.

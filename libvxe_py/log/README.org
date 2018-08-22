@@ -1,0 +1,8 @@
+* Logging
+
+Libraries for generating and working with logs.
+
+Eliot - Logging for complex & distributed systems.
+logbook - Logging replacement for Python.
+logging - (Python standard library) Logging facility for Python.
+raven - Python client for Sentry, a log/error tracking, crash reporting and aggregation platform for web applications.

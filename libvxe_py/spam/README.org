@@ -1,0 +1,6 @@
+Anti-spam
+
+Libraries for fighting spam.
+
+django-simple-captcha - A simple and highly customizable Django app to add captcha images to any Django form.
+django-simple-spam-blocker - Simple spam blocker for Django.

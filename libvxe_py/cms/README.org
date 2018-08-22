@@ -1,0 +1,14 @@
+CMS
+
+Content Management Systems.
+
+django-cms - An Open source enterprise CMS based on the Django.
+djedi-cms - A lightweight but yet powerful Django CMS with plugins, inline editing and performance in mind.
+FeinCMS - One of the most advanced Content Management Systems built on Django.
+Kotti - A high-level, Pythonic web application framework built on Pyramid.
+Mezzanine - A powerful, consistent, and flexible content management platform.
+Opps - A Django-based CMS for magazines, newspapers websites and portals with high-traffic.
+Plone - A CMS built on top of the open source application server Zope.
+Quokka - Flexible, extensible, small CMS powered by Flask and MongoDB.
+Wagtail - A Django content management system.
+Widgy - Last CMS framework, based on Django.

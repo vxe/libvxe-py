@@ -1,0 +1,13 @@
+* Email
+
+Libraries for sending and parsing email.
+
+envelopes - Mailing for human beings.
+flanker - A email address and Mime parsing library.
+imbox - Python IMAP for Humans.
+inbox.py - Python SMTP Server for Humans.
+lamson - Pythonic SMTP Application Server.
+Marrow Mailer - High-performance extensible mail delivery framework.
+modoboa - A mail hosting and management platform including a modern and simplified Web UI.
+Nylas Sync Engine - Providing a RESTful API on top of a powerful email sync platform.
+yagmail - Yet another Gmail/SMTP client.

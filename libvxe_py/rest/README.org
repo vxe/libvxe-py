@@ -1,0 +1,22 @@
+* RESTful API
+
+Libraries for developing RESTful APIs.
+
+Django
+django-rest-framework - A powerful and flexible toolkit to build web APIs.
+django-tastypie - Creating delicious APIs for Django apps.
+Flask
+eve - REST API framework powered by Flask, MongoDB and good intentions.
+flask-api-utils - Taking care of API representation and authentication for Flask.
+flask-api - Browsable Web APIs for Flask.
+flask-restful - Quickly building REST APIs for Flask.
+flask-restless - Generating RESTful APIs for database models defined with SQLAlchemy.
+Pyramid
+cornice - A RESTful framework for Pyramid.
+Framework agnostic
+falcon - A high-performance framework for building cloud APIs and web app backends.
+hug - A Python3 framework for cleanly exposing APIs over HTTP and the Command Line with automatic documentation and validation.
+restless - Framework agnostic REST framework based on lessons learned from Tastypie.
+ripozo - Quickly creating REST/HATEOAS/Hypermedia APIs.
+sandman - Automated REST APIs for existing database-driven systems.
+apistar - A smart Web API framework, designed for Python 3.

@@ -1,0 +1,30 @@
+* Libraries for parsing and manipulating plain texts.
+* General
+chardet - Python 2/3 compatible character encoding detector.
+difflib - (Python standard library) Helpers for computing deltas.
+ftfy - Makes Unicode text less broken and more consistent automagically.
+fuzzywuzzy - Fuzzy String Matching.
+Levenshtein - Fast computation of Levenshtein distance and string similarity.
+pangu.py - Spacing texts for CJK and alphanumerics.
+pyfiglet - An implementation of figlet written in Python.
+pypinyin - Convert Chinese hanzi to pinyin.
+shortuuid - A generator library for concise, unambiguous and URL-safe UUIDs.
+textdistance - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
+unidecode - ASCII transliterations of Unicode text.
+uniout - Print readable chars instead of the escaped string.
+xpinyin - A library to translate Chinese hanzi (漢字) to pinyin (拼音).
+Slugify
+awesome-slugify - A Python slugify library that can preserve unicode.
+python-slugify - A Python slugify library that translates unicode to ASCII.
+unicode-slugify - A slugifier that generates unicode slugs with Django as a dependency.
+Parser
+phonenumbers - Parsing, formatting, storing and validating international phone numbers.
+PLY - Implementation of lex and yacc parsing tools for Python.
+Pygments - A generic syntax highlighter.
+pyparsing - A general purpose framework for generating parsers.
+python-nameparser - Parsing human names into their individual components.
+python-user-agents - Browser user agent parser.
+sqlparse - A non-validating SQL parser.
+
+
+

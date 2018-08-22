@@ -1,0 +1,9 @@
+* Documentation
+
+Libraries for generating project documentation.
+
+Sphinx - Python Documentation generator.
+awesome-sphinxdoc
+MkDocs - Markdown friendly documentation generator.
+pdoc - Epydoc replacement to auto generate API documentation for Python libraries.
+Pycco - The literate-programming-style documentation generator.

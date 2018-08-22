@@ -1,0 +1,21 @@
+* Libraries that implement Object-Relational Mapping or data mapping techniques.
+
+Relational Databases
+Django Models - A part of Django.
+SQLAlchemy - The Python SQL Toolkit and Object Relational Mapper.
+awesome-sqlalchemy
+Orator - The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
+Peewee - A small, expressive ORM.
+PonyORM - ORM that provides a generator-oriented interface to SQL.
+pyDAL - A pure Python Database Abstraction Layer.
+python-sql - Write SQL queries pythonically.
+NoSQL Databases
+django-mongodb-engine - Django MongoDB Backend.
+flywheel - Object mapper for Amazon DynamoDB.
+hot-redis - Rich Python data types for Redis.
+MongoEngine - A Python Object-Document-Mapper for working with MongoDB.
+PynamoDB - A Pythonic interface for Amazon DynamoDB.
+redisco - A Python Library for Simple Models and Containers Persisted in Redis.
+Others
+butterdb - A Python ORM for Google Drive Spreadsheets.
+dataset - A JSON-based database.

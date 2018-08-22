@@ -1,0 +1,7 @@
+* RPC Servers
+
+RPC-compatible servers.
+
+SimpleJSONRPCServer - This library is an implementation of the JSON-RPC specification.
+SimpleXMLRPCServer - (Python standard library) Simple XML-RPC server implementation, single-threaded.
+zeroRPC - zerorpc is a flexible RPC implementation based on ZeroMQ and MessagePack.

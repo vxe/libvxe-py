@@ -1,0 +1,11 @@
+* Hardware
+
+Libraries for programming with hardware.
+
+ino - Command line toolkit for working with Arduino.
+keyboard - Hook and simulate global keyboard events on Windows and Linux.
+mouse - Hook and simulate global mouse events on Windows and Linux.
+Pingo - Pingo provides a uniform API to program devices like the Raspberry Pi, pcDuino, Intel Galileo, etc.
+PyUserInput - A module for cross-platform control of the mouse and keyboard.
+scapy - A brilliant packet manipulation library.
+wifi - A Python library and command line tool for working with WiFi on Linux.

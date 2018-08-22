@@ -1,0 +1,5 @@
+ChatOps Tools
+
+Libraries for chatbot development.
+
+Errbot - The easiest and most popular chatbot to implement ChatOps.

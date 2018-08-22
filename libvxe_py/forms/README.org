@@ -1,0 +1,9 @@
+* Forms
+
+Libraries for working with forms.
+
+Deform - Python HTML form generation library influenced by the formish form generation library.
+django-bootstrap3 - Bootstrap 3 integration with Django.
+django-crispy-forms - A Django app which lets you create beautiful forms in a very elegant and DRY way.
+django-remote-forms - A platform independent Django form serializer.
+WTForms - A flexible forms validation and rendering library.

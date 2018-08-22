@@ -1,0 +1,11 @@
+* Game Development
+
+Awesome game development libraries.
+
+Cocos2d - cocos2d is a framework for building 2D games, demos, and other graphical/interactive applications. It is based on pyglet.
+Panda3D - 3D game engine developed by Disney and maintained by Carnegie Mellon's Entertainment Technology Center. Written in C++, completely wrapped in Python.
+Pygame - Pygame is a set of Python modules designed for writing games.
+PyOgre - Python bindings for the Ogre 3D render engine, can be used for games, simulations, anything 3D.
+PyOpenGL - Python ctypes bindings for OpenGL and it's related APIs.
+PySDL2 - A ctypes based wrapper for the SDL2 library.
+RenPy - A Visual Novel engine.

@@ -1,0 +1,16 @@
+* Image Processing
+
+Libraries for manipulating images.
+
+hmap - Image histogram remapping.
+imgSeek - A project for searching a collection of images using visual similarity.
+nude.py - Nudity detection.
+pagan - Retro identicon (Avatar) generation based on input string and hash.
+pillow - Pillow is the friendly PIL fork.
+pyBarcode - Create barcodes in Python without needing PIL.
+pygram - Instagram-like image filters.
+python-qrcode - A pure Python QR Code generator.
+Quads - Computer art based on quadtrees.
+scikit-image - A Python library for (scientific) image processing.
+thumbor - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
+wand - Python bindings for MagickWand, C API for ImageMagick.

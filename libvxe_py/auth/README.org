@@ -1,0 +1,18 @@
+
+Libraries for implementing authentications schemes.
+
+OAuth
+Authomatic - Simple but powerful framework agnostic authentication/authorization client.
+django-allauth - Authentication app for Django that "just works."
+django-oauth-toolkit - OAuth 2 goodies for Django.
+Flask-OAuthlib - OAuth 1.0/a, 2.0 implementation of client and provider for Flask.
+OAuthLib - A generic and thorough implementation of the OAuth request-signing logic.
+python-oauth2 - A fully tested, abstract interface to creating OAuth clients and servers.
+python-social-auth - An easy-to-setup social authentication mechanism.
+rauth - A Python library for OAuth 1.0/a, 2.0, and Ofly.
+sanction - A dead simple OAuth2 client implementation.
+Others
+jose - JavaScript Object Signing and Encryption draft implementation.
+PyJWT - Implementation of the JSON Web Token draft 01.
+python-jws - Implementation of JSON Web Signatures draft 02.
+python-jwt - Module for generating and verifying JSON Web Tokens.

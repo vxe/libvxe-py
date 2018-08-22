@@ -1,0 +1,18 @@
+* GUI
+
+Libraries for working with graphical user interface applications.
+
+curses - Built-in wrapper for ncurses used to create terminal GUI applications.
+Eel - Little library for making simple Electron-like offline HTML/JS GUI apps, with full access to Python capabilities and libraries.
+enaml - Creating beautiful user-interfaces with Declaratic Syntax like QML.
+Flexx - Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering.
+kivy - A library for creating NUI applications, running on Windows, Linux, Mac OS X, Android and iOS.
+pyglet - A cross-platform windowing and multimedia library for Python.
+PyGObject - Python Bindings for GLib/GObject/GIO/GTK+ (GTK+3).
+PyQt - Python bindings for the Qt cross-platform application and UI framework, with support for both Qt v4 and Qt v5 frameworks.
+PySide - Python bindings for the Qt cross-platform application and UI framework, supporting the Qt v4 framework.
+pywebview - A lightweight cross-platform native wrapper around a webview component that allows to display HTML content in its own native dedicated window.
+Tkinter - Tkinter is Python's de-facto standard GUI package.
+Toga - A Python native, OS native GUI toolkit.
+urwid - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
+wxPython - A blending of the wxWidgets C++ class library with the Python.
