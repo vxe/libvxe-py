@@ -1,0 +1,8 @@
+Computer Vision
+
+Libraries for computer vision.
+
+OpenCV - Open Source Computer Vision Library.
+pyocr - A wrapper for Tesseract and Cuneiform.
+pytesseract - Another wrapper for Google Tesseract OCR.
+SimpleCV - An open source framework for building computer vision applications.

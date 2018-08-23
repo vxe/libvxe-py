@@ -1,0 +1,11 @@
+* Machine Learning
+
+Libraries for Machine Learning. See: awesome-machine-learning.
+
+H2O - Open Source Fast Scalable Machine Learning Platform.
+Metrics - Machine learning evaluation metrics.
+NuPIC - Numenta Platform for Intelligent Computing.
+scikit-learn - The most popular Python library for Machine Learning.
+Spark ML - Apache Spark's scalable Machine Learning library.
+vowpal_porpoise - A lightweight Python wrapper for Vowpal Wabbit.
+xgboost - A scalable, portable, and distributed gradient boosting library.

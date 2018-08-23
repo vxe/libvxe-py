@@ -1,0 +1,15 @@
+Tools of static analysis, linters and code quality checkers. See: awesome-static-analysis.
+
+Code Analysis
+flake8 - A wrapper around pycodestyle, pyflakes and McCabe.
+coala - Language independent and easily extendable code analysis application.
+code2flow - Turn your Python and JavaScript code into DOT flowcharts.
+prospector - A tool to analyse Python code.
+pycallgraph - A library that visualises the flow (call graph) of your Python application.
+pylama - A code audit tool for Python and JavaScript.
+pylint - A fully customizable source code analyzer.
+Static Type Checkers
+mypy - Check variable types during compile time.
+Pyre - Performant type checking.
+Static Type Annotations Generators
+MonkeyType - A system for Python that generates static type annotations by collecting runtime types

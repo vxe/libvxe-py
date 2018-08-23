@@ -1,0 +1,8 @@
+* Database
+
+Databases implemented in Python.
+
+pickleDB - A simple and lightweight key-value store for Python.
+TinyDB - A tiny, document-oriented database.
+ZODB - A native object database for Python. A key-value and object graph database.
+

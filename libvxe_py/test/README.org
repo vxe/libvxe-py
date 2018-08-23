@@ -1,0 +1,41 @@
+* Libraries for testing codebases and generating test data.
+
+Testing Frameworks
+hypothesis - Hypothesis is an advanced Quickcheck style property based testing library.
+mamba - The definitive testing tool for Python. Born under the banner of BDD.
+nose - A nicer unittest for Python.
+nose2 - The successor to nose, based on unittest2.
+pytest - A mature full-featured Python testing tool.
+Robot Framework - A generic test automation framework.
+unittest - (Python standard library) Unit testing framework.
+Test Runners
+green - A clean, colorful test runner.
+tox - Auto builds and tests distributions in multiple Python versions
+GUI / Web Testing
+locust - Scalable user load testing tool written in Python.
+PyAutoGUI - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+Selenium - Python bindings for Selenium WebDriver.
+sixpack - A language-agnostic A/B Testing framework.
+splinter - Open source tool for testing web applications.
+Mock
+doublex - Powerful test doubles framework for Python.
+freezegun - Travel through time by mocking the datetime module.
+httmock - A mocking library for requests for Python 2.6+ and 3.2+.
+httpretty - HTTP request mock tool for Python.
+mock - (Python standard library) A mocking and patching library.
+Mocket - Socket Mock Framework plus HTTP[S]/asyncio/gevent mocking library with recording/replaying capability.
+responses - A utility library for mocking out the requests Python library.
+VCR.py - Record and replay HTTP interactions on your tests.
+Object Factories
+factory_boy - A test fixtures replacement for Python.
+mixer - Another fixtures replacement. Supported Django, Flask, SQLAlchemy, Peewee and etc.
+model_mommy - Creating random fixtures for testing in Django.
+Code Coverage
+coverage - Code coverage measurement.
+Fake Data
+mimesis - is a Python library that help you generate fake data.
+fake2db - Fake database generator.
+faker - A Python package that generates fake data.
+radar - Generate random datetime / time.
+Error Handler
+FuckIt.py - FuckIt.py uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not.

@@ -1,0 +1,10 @@
+* Environment Management
+
+Libraries for Python version and environment management.
+
+Pipenv - Sacred Marriage of Pipfile, Pip, & Virtualenv.
+p - Dead simple interactive Python version management.
+pyenv - Simple Python version management.
+venv - (Python standard library in Python 3.3+) Creating lightweight virtual environments.
+virtualenv - A tool to create isolated Python environments.
+virtualenvwrapper - A set of extensions to virtualenv.

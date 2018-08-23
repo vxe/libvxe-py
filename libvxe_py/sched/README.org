@@ -1,0 +1,13 @@
+* Job Scheduler
+
+Libraries for scheduling jobs.
+
+APScheduler - A light but powerful in-process task scheduler that lets you schedule functions.
+django-schedule - A calendaring app for Django.
+doit - A task runner and build tool.
+gunnery - Multipurpose task execution tool for distributed systems with web-based interface.
+Joblib - A set of tools to provide lightweight pipelining in Python.
+Plan - Writing crontab file in Python like a charm.
+schedule - Python job scheduling for humans.
+Spiff - A powerful workflow engine implemented in pure Python.
+TaskFlow - A Python library that helps to make task execution easy, consistent and reliable.

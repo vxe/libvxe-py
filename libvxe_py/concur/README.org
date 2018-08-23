@@ -1,0 +1,11 @@
+Concurrency and Parallelism
+
+Libraries for concurrent and parallel execution.
+
+concurrent.futures - (Python standard library) Process-based "threading" interface.
+multiprocessing - (Python standard library) A high-level interface for asynchronously executing callables.
+eventlet - Asynchronous framework with WSGI support.
+gevent - A coroutine-based Python networking library that uses greenlet.
+SCOOP - Scalable Concurrent Operations in Python.
+Tomorrow - Magic decorator syntax for asynchronous code.
+uvloop - Ultra fast implementation of asyncio event loop on top of libuv.

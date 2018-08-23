@@ -1,0 +1,8 @@
+* Continuous Integration
+
+See: awesome-CIandCD.
+
+CircleCI - A CI service that can run very fast parallel testing. (GitHub only)
+Travis CI - A popular CI service for your open source and private projects. (GitHub only)
+Vexor CI - A continuous integration tool for private apps with pay-per-minute billing model.
+Wercker - A Docker-based platform for building and deploying applications and microservices.

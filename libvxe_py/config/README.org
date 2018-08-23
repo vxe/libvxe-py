@@ -1,0 +1,9 @@
+Configuration
+
+Libraries for storing and parsing configuration options.
+
+config - Hierarchical config from the author of logging.
+ConfigObj - INI file parser with validation.
+ConfigParser - (Python standard library) INI file parser.
+profig - Config from multiple formats with value conversion.
+python-decouple - Strict separation of settings from code.

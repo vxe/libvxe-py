@@ -1,0 +1,10 @@
+
+Libraries for administrative interfaces.
+
+Ajenti - The admin panel your servers deserve.
+django-suit - Alternative Django Admin-Interface (free only for Non-commercial use).
+django-xadmin - Drop-in replacement of Django admin comes with lots of goodies.
+flask-admin - Simple and extensible administrative interface framework for Flask.
+flower - Real-time monitor and web admin for Celery.
+Grappelli - A jazzy skin for the Django Admin-Interface.
+Wooey - A Django app which creates automatic web UIs for Python scripts.

@@ -1,0 +1,6 @@
+* Libraries for providing foreign function interface.
+
+cffi - Foreign Function Interface for Python calling C code.
+ctypes - (Python standard library) Foreign Function Interface for Python calling C code.
+PyCUDA - A Python wrapper for Nvidia's CUDA API.
+SWIG - Simplified Wrapper and Interface Generator.

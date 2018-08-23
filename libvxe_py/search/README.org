@@ -1,0 +1,11 @@
+* Search
+
+Libraries and software for indexing and performing search queries on data.
+
+django-haystack - Modular search for Django.
+elasticsearch-dsl-py - The official high-level Python client for Elasticsearch.
+elasticsearch-py - The official low-level Python client for Elasticsearch.
+esengine - ElasticSearch ODM (Object Document Mapper) for Python.
+pysolr - A lightweight Python wrapper for Apache Solr (incl. SolrCloud awareness).
+solrpy - A Python client for solr.
+Whoosh - A fast, pure Python search engine library.

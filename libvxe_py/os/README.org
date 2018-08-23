@@ -1,0 +1,7 @@
+* Processes
+
+Libraries for starting and communicating with OS processes.
+
+delegator.py - Subprocesses for Humans™ 2.0.
+sarge - Yet another wrapper for subprocess.
+sh - A full-fledged subprocess replacement for Python.

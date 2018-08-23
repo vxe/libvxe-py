@@ -1,0 +1,9 @@
+* HTTP
+
+Libraries for working with HTTP.
+
+grequests - requests + gevent for asynchronous HTTP requests.
+httplib2 - Comprehensive HTTP client library.
+requests - HTTP Requests for Humans™.
+treq - Python requests like API built on top of Twisted's HTTP client.
+urllib3 - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.

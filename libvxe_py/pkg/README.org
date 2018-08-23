@@ -1,0 +1,18 @@
+* Package Management
+
+Libraries for package and dependency management.
+
+pip - The Python package and dependency manager.
+Python Package Index
+conda - Cross-platform, Python-agnostic binary package manager.
+Curdling - Curdling is a command line tool for managing Python packages.
+pip-tools - A set of tools to keep your pinned Python dependencies fresh.
+wheel - The new standard of Python distribution and are intended to replace eggs.
+
+Local PyPI repository server and proxies.
+
+warehouse - Next generation Python Package Repository (PyPI).
+Warehouse
+bandersnatch - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+devpi - PyPI server and packaging/testing/release tool.
+localshop - Local PyPI server (custom packages and auto-mirroring of pypi).

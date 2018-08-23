@@ -1,0 +1,12 @@
+* Deep Learning
+
+Frameworks for Neural Networks and Deep Learning. See: awesome-deep-learning.
+
+Caffe - A fast open framework for deep learning..
+Keras - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
+MXNet - A deep learning framework designed for both efficiency and flexibility.
+Neupy - Running and testing different Artificial Neural Networks algorithms.
+Pytorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+Serpent.AI - Game agent framework. Use any video game as a deep learning sandbox.
+TensorFlow - The most popular Deep Learning framework created by Google.
+Theano - A library for fast numerical computation.

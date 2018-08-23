@@ -1,0 +1,10 @@
+* Geolocation
+
+Libraries for geocoding addresses and working with latitudes and longitudes.
+
+django-countries - A Django app that provides country choices for use with forms, flag icons static files, and a country field for models.
+GeoDjango - A world-class geographic web framework.
+GeoIP - Python API for MaxMind GeoIP Legacy Database.
+geojson - Python bindings and utilities for GeoJSON.
+geopy - Python Geocoding Toolbox.
+pygeoip - Pure Python GeoIP API.

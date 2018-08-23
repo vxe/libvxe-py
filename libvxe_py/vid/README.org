@@ -1,0 +1,6 @@
+* Video
+
+Libraries for manipulating video and GIFs.
+
+moviepy - A module for script-based movie editing with many formats, including animated GIFs.
+scikit-video - Video processing routines for SciPy.
